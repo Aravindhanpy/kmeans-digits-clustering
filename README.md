@@ -31,7 +31,7 @@ The goal is to evaluate how well unsupervised learning can identify digit patter
 
 ##  Results
 
-- Clustering Accuracy: ~80%
+- Clustering Accuracy: ~70%
 - Silhouette Score: ~0.15–0.20 (varies slightly per run)
 
 Even without supervision, K-Means is able to group similar handwritten digits with reasonable performance.
