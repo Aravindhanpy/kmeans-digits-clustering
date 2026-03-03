@@ -41,6 +41,7 @@ Even without supervision, K-Means is able to group similar handwritten digits wi
 ##  Visualization
 
 Cluster centers (digit prototypes)
+PCA Visualization
 
 ---
 ##  Key Learnings
